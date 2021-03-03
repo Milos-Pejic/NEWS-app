@@ -8,7 +8,8 @@ Prvo treba da se klonira git Git repozitorijum:
     3. Posle toga, npm start da se pokrene aplikacija
 
 Opis projekta:
-    Ova aplikacija omogucava citanje dnevnih novina.
+    Ova aplikacija omogucava citanje dnevnih novina.Svi podaci su preuzeti sa 
+    [https://newsapi.org/s/serbia-news-api] i azuriraju se nekoliko put dnevno.
 
 Koriscene tehnologije:
     1. VSCode
