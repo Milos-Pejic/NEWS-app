@@ -8,7 +8,7 @@
     * Posle toga, npm start da se pokrene aplikacija
 
 * Opis projekta:
-    Ova aplikacija omogucava citanje dnevnih novina.Svi podaci su preuzeti sa 
+    Ova aplikacija omogucava citanje dnevnih novina. Svi podaci su preuzeti sa 
     [https://newsapi.org/s/serbia-news-api] i azuriraju se nekoliko put dnevno.
 
 * Koriscene tehnologije:
