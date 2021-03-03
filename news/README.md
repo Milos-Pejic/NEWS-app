@@ -7,7 +7,7 @@
     2. Uci u projekat u root direktorijumu i pokrenuti npm install.
     3. Posle toga, npm start da se pokrene aplikacija
 
-Opis projekta:
+* Opis projekta:
     Ova aplikacija omogucava citanje dnevnih novina.Svi podaci su preuzeti sa 
     [https://newsapi.org/s/serbia-news-api] i azuriraju se nekoliko put dnevno.
 
