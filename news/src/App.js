@@ -8,10 +8,7 @@ import Health from './components/Health'
 import Headlines from './components/Headlines'
 import Nav from './components/Nav'
 import OneNews from './components/OneNews'
-import OneHealth from './components/OneHealth'
-import OneBussines from './components/OneBussines'
-import OneSport from './components/OneSport'
-import OneTechnology from './components/OneTechnology'
+
 
 
 const App = () => {
@@ -21,10 +18,10 @@ const App = () => {
       <Nav />
       <Switch>
         <Route exact path="/headlines/:i" component={OneNews} />
-        <Route exact path="/health/:i" component={OneHealth} />
-        <Route exact path="/bussines/:i" component={OneBussines} />
-        <Route exact path="/sport/:i" component={OneSport} />
-        <Route exact path="/tehnology/:i" component={OneTechnology} />
+        <Route exact path="/health/:i" component={OneNews} />
+        <Route exact path="/bussines/:i" component={OneNews} />
+        <Route exact path="/sport/:i" component={OneNews} />
+        <Route exact path="/tehnology/:i" component={OneNews} />
 
 
 
